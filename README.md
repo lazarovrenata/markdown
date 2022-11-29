@@ -63,10 +63,6 @@
 Here's a sentence with a footnote. [^1]
 [^1]: This is the footnote.
 
-<!-- Heading ID -->
-
-### My great heading {#custom-id}
-### My Great Heading {#custom-id}
 
 <!-- Definition list -->
 
