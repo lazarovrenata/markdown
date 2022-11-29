@@ -55,8 +55,8 @@
 
 | Students | Exams |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Student1 | Title |
+| Student2 | Text |
 
 <!-- Footnote -->
 
